@@ -1,18 +1,17 @@
-<p align="center">
-  <img src="photo-profil.jpg" alt="Nour Jenhani" width="150">
-</p>
-
-<h1 align="center">Salut, je suis Nour Jenhani 👋</h1>
-
-<p align="center">
-  <b>Étudiante ingénieure en Data Science & IA</b> @ ESPRIT<br>
-  Machine Learning • Deep Learning • IA agentique • MLOps • Business Intelligence
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/nour-jenhani-234837278"><img src="https://img.shields.io/badge/LinkedIn-Nour%20Jenhani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Jenhani.Nour@esprit.tn"><img src="https://img.shields.io/badge/Email-Jenhani.Nour%40esprit.tn-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="photo-profil.jpg" alt="Nour Jenhani" width="240">
+    </td>
+    <td valign="middle">
+      <h1>Salut, je suis Nour Jenhani 👋</h1>
+      <b>Étudiante ingénieure en Data Science & IA</b> @ ESPRIT<br>
+      Machine Learning • Deep Learning • IA agentique • MLOps • Business Intelligence<br><br>
+      <a href="https://linkedin.com/in/nour-jenhani-234837278"><img src="https://img.shields.io/badge/LinkedIn-Nour%20Jenhani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="mailto:Jenhani.Nour@esprit.tn"><img src="https://img.shields.io/badge/Email-Jenhani.Nour%40esprit.tn-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
