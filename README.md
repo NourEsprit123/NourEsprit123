@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo-profil.png" alt="Nour Jenhani" width="150">
+  <img src="photo-profil.jpg" alt="Nour Jenhani" width="150">
 </p>
 
 <h1 align="center">Salut, je suis Nour Jenhani 👋</h1>
@@ -61,8 +61,6 @@ Application web qui permet de gérer, analyser et **interroger ses documents gr�
 - Gestion et authentification des utilisateurs, consultation des documents enregistrés
 
 `Python` `Django` `ChromaDB` `Sentence Transformers` `Groq` `LLM` `RAG`
-
----
 
 ---
 
