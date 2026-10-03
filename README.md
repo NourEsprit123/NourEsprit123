@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="photo-profil.png" alt="Nour Jenhani" width="240">
+      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/NourEsprit123/NourEsprit123/main/photo-profil.jpg&w=300&h=300&fit=cover&a=top&mask=circle" alt="Nour Jenhani" width="240">
     </td>
     <td valign="middle">
       <h1>Salut, je suis Nour Jenhani 👋</h1>
