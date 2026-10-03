@@ -1,13 +1,14 @@
 <table align="center">
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="photo-profil.jpg" alt="Nour Jenhani" width="240">
+      <img src="photo-profil.png" alt="Nour Jenhani" width="240">
     </td>
     <td valign="middle">
       <h1>Salut, je suis Nour Jenhani 👋</h1>
       <b>Étudiante ingénieure en Data Science & IA</b> @ ESPRIT<br>
       Machine Learning • Deep Learning • IA agentique • MLOps • Business Intelligence<br><br>
       <a href="https://linkedin.com/in/nour-jenhani-234837278"><img src="https://img.shields.io/badge/LinkedIn-Nour%20Jenhani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="https://github.com/NourEsprit123/NourEsprit123/blob/main/CV_Nour_Jenhani_final.pdf"><img src="https://img.shields.io/badge/CV-Voir%20mon%20CV-333333?style=for-the-badge&logo=readme&logoColor=white" alt="Mon CV"></a>
       <a href="mailto:Jenhani.Nour@esprit.tn"><img src="https://img.shields.io/badge/Email-Jenhani.Nour%40esprit.tn-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
   </tr>
